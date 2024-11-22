@@ -53,6 +53,10 @@
 
 .icons{
     display: block;
+    padding-left: 30px;
+}
+.iconPics{
+    margin: 10px;
 }
 
 @media screen and (max-width: 450px) {
